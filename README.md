@@ -7,7 +7,7 @@
 
 
 
-## 一、综述 Survey
+## 一、Survey
 
 NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review（2022）
 
@@ -19,9 +19,7 @@ Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
 
 NeRF-RPN A general framework for object detection in NeRFs
 
-## 三、大规模真实场景建模
-
-### Real-world scenario modeling at scale
+## 三、Real-world scenario modeling at scale
 
 Block-NeRF: Scalable Large Scene Neural View Synthesis.
 
@@ -29,13 +27,13 @@ Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs.
 
 Urban Radiance Fields.
 
-## 四、三维重建 3D Reconstruction
+## 四、3D Reconstruction
 
 Neural 3D Scene Reconstruction With the Manhattan-World Assumption.
 
 DoubleField: Bridging the Neural Surface and Radiance Fields for High-Fidelity Human Reconstruction and Rendering.
 
-## 五、风格化 Stylized
+## 五、Stylized
 
 Hallucinated Neural Radiance Fields in the Wild.
 
